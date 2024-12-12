@@ -1,8 +1,10 @@
-<br clear="both">
-
-<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Y4Mmh0bG0yeTI3a2l4MGNyaTNlam44cmt6ZnN1MnU0cWtzYXF2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cMSIbw9yS2JWpdnLlf/giphy-downsized-large.gif"  />
+<div align="center">
+  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Y4Mmh0bG0yeTI3a2l4MGNyaTNlam44cmt6ZnN1MnU0cWtzYXF2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cMSIbw9yS2JWpdnLlf/giphy-downsized-large.gif"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/caio-blanco/" target="_blank">
@@ -11,6 +13,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -22,7 +26,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caioblnc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=caioblnc&radius=16&theme=noctis-minimus&area=true&order=5&hide_title=true&hide_border=false" height="168" alt="activity-graph graph"  />
 </div>
