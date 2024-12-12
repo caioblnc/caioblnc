@@ -1,5 +1,5 @@
 
-<img align="right" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Y4Mmh0bG0yeTI3a2l4MGNyaTNlam44cmt6ZnN1MnU0cWtzYXF2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cMSIbw9yS2JWpdnLlf/giphy-downsized-large.gif"  />
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Y4Mmh0bG0yeTI3a2l4MGNyaTNlam44cmt6ZnN1MnU0cWtzYXF2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cMSIbw9yS2JWpdnLlf/giphy-downsized-large.gif"  />
 
 ![Caioblnc's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioblnc&theme=apprentice&show_icons=true)
 
